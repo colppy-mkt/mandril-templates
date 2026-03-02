@@ -1,0 +1,27 @@
+{
+  "name": "mandril-templates",
+  "version": "1.0.0",
+  "description": "Todos las plantillas de Mailchimp / Mandril para las comunicaciones de Colppy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colppy-mkt/mandril-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/colppy-mkt/mandril-templates/issues"
+  },
+  "homepage": "https://github.com/colppy-mkt/mandril-templates#readme",
+  "dependencies": {
+    "@mailchimp/mailchimp_transactional": "^1.3.3",
+    "ejs": "^4.0.1",
+    "glob": "^13.0.6",
+    "js-yaml": "^4.1.1"
+  }
+}
