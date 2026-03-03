@@ -1,0 +1,46 @@
+subject: "Colppy - Verificación de correo"
+previewText: "Verificación de correo."
+mainHtml: |
+  <strong style="color:#000000; font-size:16px;">¡Hola!</strong><br><br>
+  <span style="font-size:16px; color:#000000;">
+    Ya casi terminamos 🙂 <br />
+    <div style="margin-top:4px;">Confirmá tu correo haciendo clic acá:</div>
+  </span>  
+  <br>
+  <!-- Button (left aligned) -->
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="left" style="margin:16px 0;">
+    <tr>
+      <td align="left" bgcolor="#6633CC" style="border-radius:6px;">
+        <a href="https://app.colppy.com/registro/confirmacion?email={{email}}&code={{codigo}}" target="_blank" style="display:inline-block; padding:14px 24px; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#ffffff; text-decoration:none; font-weight:bold; border-radius:6px;">
+          Confirmar mi correo
+        </a>
+      </td>
+    </tr>
+  </table>
+
+
+  <!-- Spacer after floated table in some clients -->
+  <div style="clear:both; height:0; line-height:0;"></div>
+
+  <!-- Code (left aligned) -->
+  <div style="margin-top:8px;">
+    <div style="font-size:22px; font-weight:800; letter-spacing:0.5px;">{{codigo}}</div>
+    <div style="font-size:13px; color:#666666; margin-top:6px;">
+      Si el botón no funciona, ingresá este código manualmente en la pantalla de verificación.
+    </div>
+  </div>
+
+  <!-- Notice (30 min) -->
+  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin:14px 0 6px 0;">
+    <tr>
+      <td align="center" style="background-color:#FFF4E5; border:1px solid #FFD8A8; border-radius:6px; padding:12px 16px; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#7A4A00; font-weight:700;">
+        ⏱️ Válido dentro de los próximos <strong>30 minutos</strong>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Support -->
+  <div style="margin-top:12px;">
+    Si tenés dudas, escribinos a
+    <strong><a href="mailto:soporte@colppy.com" target="_blank" style="color:#4D69FF; text-decoration:none;">soporte@colppy.com</a></strong>
+  </div>

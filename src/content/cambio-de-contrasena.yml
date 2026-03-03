@@ -1,0 +1,9 @@
+subject: "Colppy - Recuperar contraseña"
+previewText: "Restablecé tu contraseña en segundos."
+mainHtml: |
+  <strong style="color:#000000; font-size:16px;">Estimado usuario:</strong><br><br>
+  <span style="font-size:16px; color:#000000;">
+    Confirmamos que hemos efectuado el cambio de contraseña. Si es correcta esta solicitud podés descartar este correo electrónico.
+    <br><br>
+    Si no has sido tú, te invitamos a restablecer tu contraseña dando clic <a href="https://app.colppy.com/olvide-mi-clave" target="_blank">aquí</a> o escribinos a soporte@colppy.com donde te ayudaremos a gestionar el cambio.
+  </span>
