@@ -1,0 +1,20 @@
+subject: "Colppy - No pudimos completar la importación de ventas"
+previewText: "No pudimos completar la importación de ventas"
+mainHtml: |
+  <span style="font-size:16px; color:#000000;">    
+    Hola,<br><br>
+    No pudimos completar la importación de las facturas de venta de {{nombreEmpresa}}.
+    <br><br>
+    Te adjuntamos el archivo con el detalle de los errores. Vas a encontrarlos en la última columna, <strong>“Observaciones”</strong>.
+    <br><br>
+    Para corregirlos y volver a importar el archivo: <br>
+    <ol>
+      <li>Revisá los errores marcados en <strong>“Observaciones”</strong>.</li>
+      <li>Hacé las correcciones necesarias.</li>
+      <li>Eliminá la columna <strong>“Observaciones”</strong>.</li>
+      <li>Guardá el archivo como <strong>CSV delimitado por comas</strong>.</li>
+      <li>Volvé a importarlo en Colppy.</li>
+    </ol>
+    <br><br>
+    Si necesitas ayuda, contás con nuestro <a href="https://intercom.help/Colppy/es/">Centro de ayuda</a>, <a href="mailto:soporte@colppy.com">Soporte Colppy</a> y <a href="https://www.youtube.com/@colppyYT">videos tutoriales</a>.
+  </span>

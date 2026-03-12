@@ -1,0 +1,13 @@
+subject: "¡Fuiste invitado a una empresa en Colppy"
+previewText: "Recibiste una invitación."
+mainHtml: |
+  <span style="font-size:16px; color:#000000;">    
+    Hola {{nombreUsuario}},<br>
+    Te invitaron a sumarte a la empresa <strong>{{nombreEmpresa}}.</strong>
+    <br><br>
+    Ingresá con tu usuario y contraseña para empezar a gestionar tu empresa de forma simple, ordenada y desde un solo lugar. 
+    <br><br>
+    <a style="background:#6633cc;padding:10px;color:#ffffff;border-radius:5px; margin: 0 auto; width: 140px; display: block; text-align: center;" href="https://login.colppy.com/" target="_blank">Ingresá a Colppy</a>
+    <br>
+    Si tenés alguna duda, escríbenos a <a href="mailto:soporte@colppy.com">soporte@colppy.com</a>.
+  </span>

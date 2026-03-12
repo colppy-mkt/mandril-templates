@@ -1,0 +1,11 @@
+subject: "Colppy - Importación de Factura de Venta"
+previewText: "La importación de tus facturas finalizó con éxito."
+mainHtml: |
+  <span style="font-size:16px; color:#000000;">    
+    Hola,<br><br>
+    ¡Listo! La importación de las facturas de venta se completó correctamente.
+    <br><br>
+    Ya podés encontrarlas en el módulo de <strong>Clientes</strong> dentro de Colppy.
+    <br><br>
+    Si necesitas ayuda, contás con nuestro <a href="https://intercom.help/Colppy/es/">Centro de ayuda</a>, <a href="mailto:soporte@colppy.com">Soporte Colppy</a> y <a href="https://www.youtube.com/@colppyYT">videos tutoriales</a>.
+  </span>

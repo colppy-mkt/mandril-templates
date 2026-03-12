@@ -1,0 +1,15 @@
+subject: "Recibiste una invitación"
+previewText: "Recibiste una invitación."
+mainHtml: |
+  <span style="font-size:16px; color:#000000;">    
+    Hola {{nombreUsuario}},<br>
+    Esta es una invitación para acceder a la empresa {{nombreEmpresa}} en Colppy.
+    <br><br>
+    {{#if empresasAdministradas}} Además tendrás acceso a las siguientes empresas: {{empresasAdministradas}}. {{/if}}
+    <br>
+    Tu usuario es el mail {{email}} y tu contraseña es {{claveTemporal}}
+    <br><br>
+    <a style="background:#6633cc;padding:10px;color:#ffffff;border-radius:5px; margin: 0 auto; width: 110px; display: block; text-align: center;" href="https://login.colppy.com/" target="_blank">Ingresá ahora</a>
+    <br>
+    Para más información podés escribirnos a <a href="mailto:soporte@colppy.com">soporte@colppy.com</a>
+  </span>

@@ -1,7 +1,7 @@
 subject: "Colppy - Recuperar contraseña"
 previewText: "Restablecé tu contraseña en segundos."
 mainHtml: |
-  <strong style="color:#000000; font-size:16px;">¡Hola!</strong><br><br>
+  <strong style="color:#000000; font-size:16px;">Hola,</strong><br><br>
   <span style="font-size:16px; color:#000000;">
     Hemos recibido tu solicitud de recuperación de contraseña, para recuperarla hacé <a href="{{ link }}">click acá</a>
     <br><br>
