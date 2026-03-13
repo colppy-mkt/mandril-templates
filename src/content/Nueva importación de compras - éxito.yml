@@ -1,20 +1,10 @@
-subject: "Colppy - No pudimos completar la importación de ventas"
-previewText: "No pudimos completar la importación de ventas"
+subject: "Colppy - Tus facturas de compra ya fueron importadas"
+previewText: "Tus facturas de compra ya fueron importadas"
 mainHtml: |
   <span style="font-size:16px; color:#000000;">    
     Hola,<br><br>
-    No pudimos completar la importación de las facturas de venta de {{nombreEmpresa}}.
+    ¡Listo! La importación de las facturas de compra de <strong>{{nombreEmpresa}}</strong> se completó correctamente.
     <br><br>
-    Te adjuntamos el archivo con el detalle de los errores. Vas a encontrarlos en la última columna, <strong>“Observaciones”</strong>.
+    Ya podés encontrarlas en el módulo de <strong>Proveedores</strong> dentro de Colppy.
     <br><br>
-    Para corregirlos y volver a importar el archivo: <br>
-    <ol>
-      <li>Revisá los errores marcados en <strong>“Observaciones”</strong>.</li>
-      <li>Hacé las correcciones necesarias.</li>
-      <li>Eliminá la columna <strong>“Observaciones”</strong>.</li>
-      <li>Guardá el archivo como <strong>CSV delimitado por comas</strong>.</li>
-      <li>Volvé a importarlo en Colppy.</li>
-    </ol>
-    <br><br>
-    Si necesitas ayuda, contás con nuestro <a href="https://intercom.help/Colppy/es/">Centro de ayuda</a>, <a href="mailto:soporte@colppy.com">Soporte Colppy</a> y <a href="https://www.youtube.com/@colppyYT">videos tutoriales</a>.
   </span>

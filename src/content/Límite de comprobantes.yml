@@ -1,0 +1,19 @@
+subject: "Colppy - Actualizá tu plan para seguir agregando comprobantes sin interrupciones."
+previewText: "Actualizá tu plan para seguir agregando comprobantes sin interrupciones."
+mainHtml: |
+  <span style="font-size:16px; color:#000000;">    
+    Hola,<br><br>
+    {{Nombre de la empresa}} llegó al límite de {{topeFacturas}} comprobantes incluidos en el plan {{nombrePlan}}.
+    <br><br>
+    Para seguir agregando comprobantes sin interrupciones, necesitás actualizar tu plan.
+    <br><br>
+    Podés hacerlo en 3 pasos:<br>
+    <ol>
+      <li>Ingresá a <strong>Mi Cuenta</strong> en Colppy.</li>
+      <li>Hacé clic en <strong>Modificar</strong>.</li>
+      <li>Elegí el plan que mejor se adapte a tu operación.</li>
+    </ol>
+    <br><br>
+    Si tu plan es <strong>Enterprise</strong>, escribinos a <a href="mailto:soporte@colppy.com">soporte@colppy.com</a> y te ayudamos a validar la cantidad de comprobantes adecuada para tu negocio.<br>
+    Muchas gracias.
+  </span>
